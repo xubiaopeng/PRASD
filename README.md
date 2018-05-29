@@ -33,4 +33,4 @@ The standalone installations and usages of PRASD (No need to install MATLAB) for
         ./run_PRASD.sh /usr/local/MATLAB/R2014b /user_name/Input_examples/proteins 1g6j 1 76 PRASD_output ASD       
         ./run_PRASD.sh /usr/local/MATLAB/R2014b /user_name/Input_examples/proteins 1g6j 1 76 PRASD_output ScaledASD       
   
-Some input files examples can be downloaded here: http://physics.bit.edu.cn/docs/20180529022559638863.zip
+Some examples for input  can be downloaded here: http://physics.bit.edu.cn/docs/20180529022559638863.zip
