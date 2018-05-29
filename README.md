@@ -1,2 +1,2 @@
 # PRASD
-This file is for 
+For installation, 
