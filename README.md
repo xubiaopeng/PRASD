@@ -11,12 +11,12 @@ The standalone installations and usages of PRASD (No need to install MATLAB) for
   (1)  Download the PRASD installation package  from "http://physics.bit.edu.cn/docs/20180529022919550172.zip"    
   (2)  Install the PRASD program by double clicking "MyAppInstaller_mcr.exe" ( MCR (Matlab Compile Runtime)included in the package) or "MyAppInstaller_web.exe" (MCR will be downloaded through internet)    
   (3)  For running,     
-        i.  Copy the file "ainfo.mat" to the installation folder where "PRASD.exe" is located.   
-       ii.  Open the command line terminal, and go to the installation folder from terminal using command "pushd your_installation_pathway"    
-      iii. Type "PRASD.exe your_protein_folder_pathway your_protein_name start_resid end_resid your_output_pathway algorithm_option" to run the program    
-     Two examples:    
-      PRASD.exe D:\proteins 1g6j 1 76 D:\PRASD_output ASD     
-      PRASD.exe D:\proteins 1g6j 1 76 D:\PRASD_output ScaledASD    
+          i.  Copy the file "ainfo.mat" to the installation folder where "PRASD.exe" is located.   
+          ii.  Open the command line terminal, and go to the installation folder from terminal using command "pushd your_installation_pathway"    
+          iii. Type "PRASD.exe your_protein_folder_pathway your_protein_name start_resid end_resid your_output_pathway algorithm_option" to run the program    
+          Two examples:    
+            PRASD.exe D:\proteins 1g6j 1 76 D:\PRASD_output ASD     
+            PRASD.exe D:\proteins 1g6j 1 76 D:\PRASD_output ScaledASD    
 
 
  
