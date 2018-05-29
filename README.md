@@ -7,8 +7,8 @@ The standalone installations and usages of PRASD (Users do not need to install M
 
 
 
-2) For Windows\\
-  (1)  Download the installation package for PRASD from "http://physics.bit.edu.cn/docs/20180529022919550172.zip"
+2) For Windows
+  (1)  Download the PRASD installation package  from "http://physics.bit.edu.cn/docs/20180529022919550172.zip"  
   (2)  Install the PRASD program by double clicking "MyAppInstaller_mcr.exe" ( MCR (Matlab Compile Runtime)included in the package) or "MyAppInstaller_web.exe" (MCR will be downloaded through internet)
   (3)  For running, 
         i.  Copy the file "ainfo.mat" to the installation folder where "PRASD.exe" is located.
