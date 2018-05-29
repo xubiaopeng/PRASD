@@ -1,7 +1,6 @@
 # PRASD
-This is a program for protein reconstruction using ASD/scaledASD algorithm (PRASD) from NOESY distance. The source code (in MATLAB ) is in the zip file "source_code.zip".    
-
-The input is the NMR NOESY distance data, and  output is the protein structure before Energy Minization(EM). For the EM-procedure protocal we refere to the zip file "".
+This is a program for protein reconstruction using ASD/scaledASD algorithm (PRASD) from NOESY distance. The input is the NMR NOESY distance data, and  output is the protein structure from pure geometrical restraints. For the EM-procedure protocal we refere to the zip file "".    
+The source code (in MATLAB ) is in the zip file "source_code.zip". For users who have MATLAB, just call the function "Compile_mex_files" and "PRASD" sequentially in matlab. 
 
 The standalone installations and usages of PRASD (No need to install MATLAB) for different platforms are as follows:
 
