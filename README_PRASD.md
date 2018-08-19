@@ -1,10 +1,14 @@
 # PRASD
-This is a program for protein reconstruction using ASD/scaledASD algorithm (PRASD) from NOESY distance. The input is the NMR NOESY distance data, and  output is the protein structure from pure geometrical restraints. 
+This is a program for protein reconstruction using ASD/scaledASD algorithm (PRASD) from NOESY distances. The input is the NMR NOESY distance data, and  output is the protein structure from purely geometrical restraints. 
 
-For the EM-procedure protocal and XPLOR water refinement, we refere to the folder "EM-procedure" and "Xplor-wrefine".    
-The source code (in MATLAB ) is in the zip file "source_code.zip". For users who have MATLAB, just call the function "Compile_mex_files" and "PRASD" sequentially in matlab. 
+For the EM-procedure protocal and XPLOR water refinement, we refere to the folder "EM-procedure" and "water-wrefine", respectively.    
+The source code (in MATLAB ) is in the zip file "source_code.zip". 
 
-The standalone installations and usages of PRASD (No need to install MATLAB) for different platforms are as follows:
+
+For users who have MATLAB, just call the function "Compile_mex_files" and "PRASD" sequentially in Matlab. 
+
+
+For the users who do not have Matlab, the standalone installations and usages of PRASD (No need to install MATLAB) for different platforms are as follows:
 
 1) For MacOS       
   (1)  Download the installation package from the website "http://physics.bit.edu.cn/docs/20180529023026979223.zip" (or https://www.dropbox.com/sh/hh7lu1osc4c1gak/AAD7tY3v3H7NKCqvh_El8pksa?dl=0)       
