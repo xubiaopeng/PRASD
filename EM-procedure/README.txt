@@ -23,4 +23,4 @@ Energy minimization using Gromacs:
 
    echo 1 | gmx trjconv -f em.gro -s em.tpr -pbc mol -ur compact -o protein_$2.gro
 
-3) protein_$2.gro is the final result.
+3) protein_$2.gro is the final result, change it to .pdb format using vmd.
