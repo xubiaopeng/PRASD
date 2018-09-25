@@ -33,7 +33,7 @@ For users who DO NOT have Matlab, the standalone installations and usages of PRA
             PRASD.exe D:\Input_examples\proteins 1g6j 1 76 D:\PRASD_output ScaledASD    
  
 3) For Linux       
-  (1)  Download the application PRASD package from "http://physics.bit.edu.cn/docs/20180529022809570875.zip" (or https://www.dropbox.com/sh/xk7twn25yhk87ph/AABWLNDyT9kML39-EVgZSK7Ga?dl=0) and the MCR2014b-Linux package from "https://ww2.mathworks.cn/products/compiler/matlab-runtime.html".       
+  (1)  Download the application PRASD package from "http://physics.bit.edu.cn/docs/20180921020135470875.zip" (or https://www.dropbox.com/sh/xk7twn25yhk87ph/AABWLNDyT9kML39-EVgZSK7Ga?dl=0) and the MCR2014b-Linux package from "https://ww2.mathworks.cn/products/compiler/matlab-runtime.html".       
   (2)  For running, open a command terminal, go to the PRASD package folder and type command (Note that the folder of "your_output_pathway" needs to be created if not exist  ):        
         "./run_PRASD.sh your_MCR_folder_pathway your_protein_folder_pathway your_protein_name start_resid end_resid your_output_pathway algorithm_option"        
      Two examples:                
